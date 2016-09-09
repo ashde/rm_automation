@@ -3,8 +3,8 @@
 
 # To make this executable on Linux/Mac systems:
 # $ chmod +x frequency.py
-# $ alias frequency='/Users/raymond/sj/frequency.py'
-# $ ln -s /Users/raymond/sj/frequency.py /usr/local/bin/frequency
+# $ alias frequency='/Users/rahhelanbesse/projectA/rm_automation/frequency.py'
+# $ ln -s /Users/rahhelanbesse/projectA/rm_automation/frequency.py /usr/local/bin/frequency
 
 from collections import Counter
 import re
